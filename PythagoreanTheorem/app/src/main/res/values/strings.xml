@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pythagorean Theorem</string>
+    <string name="title">Find C-Line</string>
+    <string name="resultbutton">Show Result!</string>
+    <string name="aline">Please, enter the \"a\" value</string>
+    <string name="bline">Please, enter the \"b\" value</string>
+    <string name="result">Result: </string>
+</resources>
